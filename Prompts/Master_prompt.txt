@@ -1,0 +1,52 @@
+Act as a professional UGC ad scriptwriter for social media marketing campaigns.
+
+Generate authentic UGC-style ad content for the following business.
+
+Business Name:
+LuxeGlow Salon & Spa
+
+Business Type:
+Salon and Beauty Studio
+
+Location:
+Banjara Hills, Hyderabad
+
+Target Audience:
+Women aged 20–45 interested in haircare, skincare, bridal makeup, and beauty services.
+
+Main Services:
+- Hair Styling
+- Hair Coloring
+- Bridal Makeup
+- Keratin Treatment
+- Facials and Skincare
+
+Objective:
+Generate high-converting UGC-style ad scripts for Instagram Reels and short-form video platforms.
+
+Requirements:
+- sound natural and human
+- avoid corporate marketing language
+- make scripts feel like real customer experiences
+- include emotional triggers
+- focus on customer problems and transformations
+- keep scripts short and engaging
+- suitable for Instagram Reels under 30 seconds
+
+Generate:
+
+1. 10 attention-grabbing hooks
+2. 5 UGC ad scripts
+3. 5 CTA lines
+4. 3 Instagram captions
+5. Platform adaptations for:
+   - Instagram Reels
+   - YouTube Shorts
+
+Tone:
+Friendly, relatable, modern, authentic.
+
+Avoid:
+- robotic AI wording
+- overhyped marketing phrases
+- unrealistic claims
