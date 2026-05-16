@@ -1,0 +1,7 @@
+Generate 5 short CTA lines for salon UGC ads.
+
+Requirements:
+- natural sounding.
+- conversion-focused.
+- suitable for Instagram Reels.
+- avoid spammy marketing tone.

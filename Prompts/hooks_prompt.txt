@@ -4,9 +4,9 @@ Business:
 LuxeGlow Salon & Spa
 
 Requirements:
-- sound natural
-- relatable
-- emotional
-- under 12 words
-- avoid corporate marketing language
-- focus on customer pain points and transformations
+- sound natural.
+- relatable.
+- emotional.
+- under 12 words.
+- avoid corporate marketing language.
+- focus on customer pain points and transformations.

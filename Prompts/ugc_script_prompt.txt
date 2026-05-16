@@ -1,0 +1,11 @@
+Generate 5 UGC-style short-form ad scripts for Instagram Reels.
+
+Business:
+LuxeGlow Salon & Spa
+
+Requirements:
+- follow problem → experience → result → CTA framework.
+- sound like a real customer talking.
+- suitable for 30-second Reels.
+- conversational tone.
+- avoid robotic AI wording.
